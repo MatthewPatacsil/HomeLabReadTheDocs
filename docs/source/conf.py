@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Matthew Patacsil HomeLab'
+copyright = '2024, Matthew Patacsil'
+author = 'Matthew Patacsil'
 
 release = '0.1'
 version = '0.1.0'
