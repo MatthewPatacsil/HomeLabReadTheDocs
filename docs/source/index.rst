@@ -1,5 +1,5 @@
 Welcome to Matthew's HomeLab documentation!
-===================================
+===========================================
 
 HomeLabReadTheDocs is the public documentation provided for accessing services offered by MatthewPatacsil/HomeLab
 
