@@ -3,31 +3,56 @@ Proxmox Server
 
 Proxmox Information
 -------------------
-FQDN: ``pve.local.net``
+FQDN::
 
-IP: ``192.168.1.134``
+   pve.local.net
 
-URL: ``https://192.168.1.134:8006/``
+IP::
 
-login - ``root``
+   192.168.1.134
 
-password - ``Bokahoreg$91``
+URL::
+
+   https://192.168.1.134:8006/
+
+login::
+
+   root
+
+password:: 
+
+   Bokahoreg$91
 
 Docker Server
 -------------
-SSH - ``192.168.1.119``
+Access Console on Docker VM(VM 101) and use credentials to access VM
 
-login - ``mpat``
+SSH ::
+   
+   ssh mpat@192.168.1.119
 
-password - ``Toneboyom!64``
+
+login ::
+   
+   mpat
+
+password :: 
+   
+   Toneboyom!64
 
 Portainer 
 ^^^^^^^^^
-URL - ``192.168.1.119:9000``
+IP::
 
-login - ``admin``
+   192.168.1.119:9000
 
-password - ``Barobohig*65``
+login::
+
+   admin
+
+password::
+
+   Barobohig*65
 
 Network Management
 ^^^^^^^^^^^^^^^^^^
